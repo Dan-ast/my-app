@@ -81,7 +81,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="/"
+            href="https://the-weather-react-app.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
