@@ -73,7 +73,7 @@ export default function Weather(props) {
           </a>{" "}
           and is{" "}
           <a
-            href=""
+            href="https://github.com/Dan-ast/my-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -81,7 +81,7 @@ export default function Weather(props) {
           </a>{" "}
           and{" "}
           <a
-            href="https://github.com/Dan-ast/my-app"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
